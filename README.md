@@ -1,6 +1,6 @@
 # if youre here, then I failed.
-# my only hope is that you will do better
+my only hope is that you will do better
 
-# [website]
+[website]
 
-# please help it.
+please help it.
